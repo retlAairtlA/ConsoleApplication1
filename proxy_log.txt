@@ -1,0 +1,41 @@
+2025-06-26 08:46:31.736 - Proxy TCP iniciado na porta 6900, encaminhando para 25.19.65.198:6900
+2025-06-26 08:47:00.260 - [127.0.0.1:8461] Conexão iniciada
+2025-06-26 08:47:00.265 - [127.0.0.1:8461] Conectado ao servidor em 4 ms
+2025-06-26 08:47:00.267 - [127.0.0.1:8461] client->server 68 bytes
+Tempo de transmissão: 45 ?s
+Dados hex:
+cf 0a 30 30 31 31 63 61 66 65 78 64 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 7a 
+...
+
+2025-06-26 08:47:00.271 - [127.0.0.1:8461] server->client 34 bytes
+Tempo de transmissão: 41 ?s
+Dados hex:
+e3 0a 22 00 00 00 00 00 53 31 30 30 30 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 74 6f 6b 65 
+...
+
+2025-06-26 08:47:00.291 - [127.0.0.1:8461] Conexão encerrada
+Duração: 31 ms
+Bytes cliente->servidor: 68
+Bytes servidor->cliente: 34
+2025-06-26 08:47:00.318 - [127.0.0.1:8463] Conexão iniciada
+2025-06-26 08:47:00.320 - [127.0.0.1:8463] Conectado ao servidor em 1 ms
+2025-06-26 08:47:00.323 - [127.0.0.1:8463] client->server 55 bytes
+Tempo de transmissão: 56 ?s
+Dados hex:
+64 00 00 00 00 80 63 61 66 65 78 64 00 00 b0 24 
+00 00 00 00 00 00 66 cf 00 00 78 36 00 00 31 32 
+...
+
+2025-06-26 08:47:00.346 - [127.0.0.1:8463] server->client 224 bytes
+Tempo de transmissão: 118 ?s
+Dados hex:
+c4 0a e0 00 0b 6f 59 ba 81 84 1e 00 4b 53 41 b7 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+...
+
+2025-06-26 08:47:00.365 - [127.0.0.1:8463] Conexão encerrada
+Duração: 46 ms
+Bytes cliente->servidor: 55
+Bytes servidor->cliente: 224
